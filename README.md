@@ -1,7 +1,7 @@
 # README
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=READ%20ME&fontSize=90)
 
-## ⛏ 기술스택
+## ⛏ Tech Stack
 <table>
     <tr>
         <th>구분</th>
