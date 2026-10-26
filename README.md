@@ -25,9 +25,18 @@
             <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
             <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>
             <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+            <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>AI / Agent</td>
+        <td>
+            <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge"/>
         </td>
     </tr>
     <tr>
@@ -61,6 +70,7 @@
         <td>
             <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -85,4 +95,4 @@
 
 ## 📫 contact
 
-<img src="https://img.shields.io/badge/My Gmail -EA4335?style=for-the-badge&logo=Gmail&logoColor=black"> <tpids99@gmail.com>
+<img src="https://img.shields.io/badge/My Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"> <tpids99@gmail.com>
