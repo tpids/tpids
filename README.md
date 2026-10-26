@@ -85,5 +85,4 @@
 
 ## 📫 contact
 
-<img src="https://img.shields.io/badge/My Velog -20C997?style=for-the-badge&logo=Velog&logoColor=black"> [velog/tpids](https://velog.io/@tpids/posts) <br>
 <img src="https://img.shields.io/badge/My Gmail -EA4335?style=for-the-badge&logo=Gmail&logoColor=black"> <tpids99@gmail.com>
