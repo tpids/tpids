@@ -76,22 +76,19 @@
 
 </details>
 
----
-
 ## 🚀 Projects
 
-### 🔐 AI 기반 통합 보안 취약점 진단 Agent
+### 🔐 [AI 기반 통합 보안 취약점 진단 Agent](https://github.com/skala-gwangju-2-3)
 **SKALA 4기 | Team Gwin | Backend & Infrastructure**
 
 - 설계문서와 소스코드를 연계한 보안 취약점 진단 서비스 개발
 - SAST / SCA 분석 도구 실행 환경 검토 및 백엔드 연동
 - 정적 분석 결과의 공통 데이터 구조와 Scan Adapter 설계
 - Spring Boot 기반 API 및 공통 예외 처리 구조 개발
-- Docker, Kubernetes, Jenkins, Argo CD 기반 배포 인프라 검토
 
 **Tech:** Java, Spring Boot, PostgreSQL, Docker, Kubernetes, Jenkins, Argo CD, SAST, SCA
 
-### 🛡️ AskMe
+### 🛡️ [AskMe](https://github.com/Kim-Ji-Man/Ask-Me)
 **AI 기반 이상 상황 감지 및 실시간 알림 시스템 | Backend**
 
 - Node.js 기반 백엔드 개발 및 API 설계
@@ -101,7 +98,7 @@
 
 **Tech:** Node.js, Express, FastAPI, MySQL, Socket.IO, OpenCV, YOLO
 
-### 🌊 SurFun
+### 🌊 [SurFun](https://github.com/2024-AISCHOOL-APP/SurFun)
 **서비스 플랫폼 | Backend**
 
 - Node.js / Express 기반 REST API 개발
